@@ -1,3 +1,7 @@
+### 0 POINTS
+### KEY: No submission :-( 
+### KEY: Please review HTML lists. https://learn.shayhowe.com/html-css/creating-lists/
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
